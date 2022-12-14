@@ -1,0 +1,8 @@
+version: '3'
+services:
+  centerline:
+    container_name: centerline
+    image: centerline:0.6.4
+    restart: always
+    ports:
+      - "DOCKER_CENTERLINE_PORT:8000"
