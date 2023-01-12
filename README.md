@@ -15,7 +15,7 @@ $ docker pull spbima/centerline
 $ docker run -d --name centerline spbima/centerline
 ```
 
-Or you can use **docker-compose**
+Or you can use **docker-compose** for running
 
 Create file ``docker-compose.yml``
 
