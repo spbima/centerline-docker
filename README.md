@@ -1,4 +1,4 @@
-# centerline-docker
+# Centerline in docker
 Docker image with HTTP API for centerline command-line tool [**centerline.readthedocs.io**](https://centerline.readthedocs.io).
 
 Roads, rivers and similar linear structures are often represented by long and complex polygons. Since one of the most important attributes 
